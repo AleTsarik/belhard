@@ -1,5 +1,6 @@
 # **Вывести четные числа от 2 до N по 5 в строку
 n = int(input('Input N: '))
+
 i = 0
 for j in range(2, n+1):
     if not j % 2:
